@@ -1,0 +1,28 @@
+{
+  "dates": [
+    "2011",
+    "2021"
+  ],
+  "wmts": [
+    "ORTHOIMAGERY.ORTHOPHOTOS2011",
+    "ORTHOIMAGERY.ORTHOPHOTOS"
+  ],
+  "tasks": [
+    "sample/1/data_142878.geojson",
+    "sample/1/data_142744.geojson",
+    "sample/1/data_66134.geojson",
+    "sample/1/data_327483.geojson",
+    "sample/1/data_142678.geojson",
+    "sample/1/data_142698.geojson",
+    "sample/1/data_142689.geojson",
+    "sample/1/data_142743.geojson",
+    "sample/1/data_142877.geojson",
+    "sample/1/data_327480.geojson",
+    "sample/1/data_142701.geojson",
+    "sample/1/data_327488.geojson",
+    "sample/1/data_142700.geojson",
+    "sample/1/data_142876.geojson",
+    "sample/1/data_327489.geojson",
+    "sample/1/data_66161.geojson"
+  ]
+}

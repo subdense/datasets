@@ -1,0 +1,46 @@
+{
+  "dates": [
+    "2011",
+    "2021"
+  ],
+  "wmts": [
+    "ORTHOIMAGERY.ORTHOPHOTOS2011",
+    "ORTHOIMAGERY.ORTHOPHOTOS"
+  ],
+  "tasks": [
+    "sample/3/data_122076.geojson",
+    "sample/3/data_122061.geojson",
+    "sample/3/data_122079.geojson",
+    "sample/3/data_122069.geojson",
+    "sample/3/data_122080.geojson",
+    "sample/3/data_122089.geojson",
+    "sample/3/data_122048.geojson",
+    "sample/3/data_122077.geojson",
+    "sample/3/data_122085.geojson",
+    "sample/3/data_122047.geojson",
+    "sample/3/data_122107.geojson",
+    "sample/3/data_122118.geojson",
+    "sample/3/data_122037.geojson",
+    "sample/3/data_122044.geojson",
+    "sample/3/data_122066.geojson",
+    "sample/3/data_122170.geojson",
+    "sample/3/data_122049.geojson",
+    "sample/3/data_122121.geojson",
+    "sample/3/data_122132.geojson",
+    "sample/3/data_122096.geojson",
+    "sample/3/data_122116.geojson",
+    "sample/3/data_122063.geojson",
+    "sample/3/data_122173.geojson",
+    "sample/3/data_122099.geojson",
+    "sample/3/data_122058.geojson",
+    "sample/3/data_122188.geojson",
+    "sample/3/data_122050.geojson",
+    "sample/3/data_77955.geojson",
+    "sample/3/data_122135.geojson",
+    "sample/3/data_122060.geojson",
+    "sample/3/data_122041.geojson",
+    "sample/3/data_229094.geojson",
+    "sample/3/data_229093.geojson",
+    "sample/3/data_122051.geojson"
+  ]
+}

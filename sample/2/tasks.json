@@ -1,0 +1,20 @@
+{
+  "dates": [
+    "2011",
+    "2021"
+  ],
+  "wmts": [
+    "ORTHOIMAGERY.ORTHOPHOTOS2011",
+    "ORTHOIMAGERY.ORTHOPHOTOS"
+  ],
+  "tasks": [
+    "sample/2/data_146325.geojson",
+    "sample/2/data_236227.geojson",
+    "sample/2/data_225447.geojson",
+    "sample/2/data_146322.geojson",
+    "sample/2/data_146329.geojson",
+    "sample/2/data_146331.geojson",
+    "sample/2/data_88407.geojson",
+    "sample/2/data_146397.geojson"
+  ]
+}
