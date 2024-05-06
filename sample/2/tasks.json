@@ -25,6 +25,10 @@
     {
       "tag": "stable",
       "qualityIssue": true
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": true
     }
   ]
 }
