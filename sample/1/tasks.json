@@ -41,6 +41,10 @@
     {
       "tag": "stable",
       "qualityIssue": true
+    },
+    {
+      "tag": "skip",
+      "qualityIssue": false
     }
   ]
 }
