@@ -155,6 +155,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "skip",
+      "qualityIssue": false
     }
   ]
 }
