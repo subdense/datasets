@@ -1,4 +1,12 @@
 {
+  "dates": [
+    "2011",
+    "2021"
+  ],
+  "wmts": [
+    "ORTHOIMAGERY.ORTHOPHOTOS2011",
+    "ORTHOIMAGERY.ORTHOPHOTOS"
+  ],
   "samples": [
     "sample/1/tasks.json",
     "sample/2/tasks.json",
