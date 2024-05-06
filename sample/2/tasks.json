@@ -8,5 +8,11 @@
     "sample/2/data_146331.geojson",
     "sample/2/data_88407.geojson",
     "sample/2/data_146397.geojson"
+  ],
+  "julienperret": [
+    {
+      "tag": "stable",
+      "qualityIssue": false
+    }
   ]
 }
