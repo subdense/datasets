@@ -47,6 +47,10 @@
     {
       "tag": "stable",
       "qualityIssue": true
+    },
+    {
+      "tag": "merge",
+      "qualityIssue": true
     }
   ]
 }
