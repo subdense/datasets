@@ -95,6 +95,10 @@
     {
       "tag": "none",
       "qualityIssue": true
+    },
+    {
+      "tag": "split",
+      "qualityIssue": false
     }
   ]
 }
