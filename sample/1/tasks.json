@@ -99,6 +99,10 @@
     {
       "tag": "split",
       "qualityIssue": false
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": false
     }
   ]
 }
