@@ -82,5 +82,11 @@
       "tag": "stable",
       "qualityIssue": true
     }
+  ],
+  "amraimond": [
+    {
+      "tag": "stable",
+      "qualityIssue": false
+    }
   ]
 }
