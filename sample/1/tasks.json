@@ -91,6 +91,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "none",
+      "qualityIssue": true
     }
   ]
 }
