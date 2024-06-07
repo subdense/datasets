@@ -52,6 +52,10 @@
     {
       "tag": "stable",
       "qualityIssue": true
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": false
     }
   ]
 }
