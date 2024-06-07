@@ -80,6 +80,10 @@
     {
       "tag": "construction",
       "qualityIssue": true
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": true
     }
   ]
 }
