@@ -112,6 +112,10 @@
     {
       "tag": "construction",
       "qualityIssue": false
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": false
     }
   ]
 }
