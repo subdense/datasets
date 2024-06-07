@@ -72,6 +72,10 @@
     {
       "tag": "construction",
       "qualityIssue": true
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": true
     }
   ]
 }
