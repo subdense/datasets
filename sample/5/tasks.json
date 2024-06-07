@@ -116,6 +116,10 @@
     {
       "tag": "construction",
       "qualityIssue": false
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": true
     }
   ]
 }
