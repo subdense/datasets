@@ -64,6 +64,10 @@
     {
       "tag": "construction",
       "qualityIssue": false
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": true
     }
   ]
 }
