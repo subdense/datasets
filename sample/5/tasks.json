@@ -39,5 +39,11 @@
     "sample/5/data_912.geojson",
     "sample/5/data_1093.geojson",
     "sample/5/data_1082.geojson"
+  ],
+  "julienperret": [
+    {
+      "tag": "stable",
+      "qualityIssue": false
+    }
   ]
 }
