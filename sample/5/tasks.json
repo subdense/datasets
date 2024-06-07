@@ -100,6 +100,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": false
     }
   ]
 }
