@@ -112,5 +112,11 @@
       "tag": "skip",
       "qualityIssue": false
     }
+  ],
+  "JusteRaimbault": [
+    {
+      "tag": "skip",
+      "qualityIssue": false
+    }
   ]
 }
