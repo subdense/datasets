@@ -172,5 +172,11 @@
       "tag": "stable",
       "qualityIssue": true
     }
+  ],
+  "JusteRaimbault": [
+    {
+      "tag": "stable",
+      "qualityIssue": false
+    }
   ]
 }
