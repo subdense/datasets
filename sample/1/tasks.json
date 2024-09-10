@@ -169,6 +169,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "destruction",
+      "qualityIssue": false
     }
   ]
 }
