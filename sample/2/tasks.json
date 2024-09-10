@@ -63,6 +63,10 @@
     {
       "tag": "skip",
       "qualityIssue": true
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": false
     }
   ]
 }
