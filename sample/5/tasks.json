@@ -202,6 +202,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": false
     }
   ]
 }
