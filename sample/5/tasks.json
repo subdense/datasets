@@ -136,6 +136,10 @@
     {
       "tag": "stable",
       "qualityIssue": true
+    },
+    {
+      "tag": "stable",
+      "qualityIssue": false
     }
   ],
   "JusteRaimbault": [
