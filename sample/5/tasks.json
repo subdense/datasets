@@ -148,6 +148,10 @@
     {
       "tag": "stable",
       "qualityIssue": false
+    },
+    {
+      "tag": "split",
+      "qualityIssue": false
     }
   ],
   "JusteRaimbault": [
