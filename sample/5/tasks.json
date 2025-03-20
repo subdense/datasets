@@ -286,6 +286,10 @@
     {
       "tag": "skip",
       "qualityIssue": false
+    },
+    {
+      "tag": "construction",
+      "qualityIssue": false
     }
   ]
 }
